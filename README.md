@@ -1,4 +1,4 @@
-# front-end-XRX-doc
+### front-end-XRX-doc
 THIS IS A WORK KNOWLAGE FOR XRX ORDER ENTRY
 
 
@@ -8,8 +8,8 @@ For UI: FIGMA, review the UI [here](https://www.figma.com/file/pQo92jdJO5T3AVyy5
 
 Framework: NEXT.JS
 
---->
-Run the program
+---
+##Run the program
 ```js
 run next
 
